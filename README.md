@@ -15,10 +15,7 @@ This repository contains several graphical implementations of classic algorithmi
 1. **Hanoi Tower**  
    Graphical simulation of the Hanoi Tower problem with adjustable disk number.
 <br><br>
-<div align="center" style="border: 2px dashed #ccc; border-radius: 10px; padding: 10px; width: fit-content; margin: auto;">
-  <img src="/images/image-2.png" alt="alt text" width="400"/>
-  <p>6×6 magical square</p>
-</div>
+<video controls src="images&videos/Hanoi_Towers.mp4" title="Title"></video>
 <br>
 
 2. **N-Queens**  
