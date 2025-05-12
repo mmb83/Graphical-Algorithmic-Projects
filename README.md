@@ -4,7 +4,7 @@ This repository contains several graphical implementations of classic algorithmi
 
 <br>
 <div align="center" style="border: 2px dashed #ccc; border-radius: 10px; padding: 10px; width: fit-content; margin: auto;">
-  <img src="/images/image.png" alt="alt text" width="400"/>
+  <img src="/images&videos/image.png" alt="alt text" width="400"/>
   <p>Main menu</p>
 </div>
 
@@ -15,14 +15,14 @@ This repository contains several graphical implementations of classic algorithmi
 1. **Hanoi Tower**  
    Graphical simulation of the Hanoi Tower problem with adjustable disk number.
 <br><br>
-<video controls src="images&videos/Hanoi_Towers.mp4" title="Title"></video>
+<video controls src="/images&videos/Hanoi_Towers.mp4" title="Title"></video>
 <br>
 
 2. **N-Queens**  
    Graphical solver for the N-Queens problem with customizable board size.
 <br>
 <div align="center" style="border: 2px dashed #ccc; border-radius: 10px; padding: 10px; width: fit-content; margin: auto;">
-  <img src="image-3.png" alt="alt text" width="400"/>
+  <img src="/images&videos/image-3.png" alt="alt text" width="400"/>
   <p>N-Queens with N=5 (10 possible placements)</p>
 </div>
 
@@ -33,12 +33,12 @@ This repository contains several graphical implementations of classic algorithmi
 
 <br>
 <div align="center" style="border: 2px dashed #ccc; border-radius: 10px; padding: 10px; width: fit-content; margin: auto;">
-  <img src="/images/image-4.png" alt="alt text" width="400"/>
+  <img src="/images&videos/image-4.png" alt="alt text" width="400"/>
 </div>
 <br>
 
 <div align="center" style="border: 2px dashed #ccc; border-radius: 10px; padding: 10px; width: fit-content; margin: auto;">
-  <img src="/images/image-5.png" alt="alt text" width="400"/>
+  <img src="/images&videos/image-5.png" alt="alt text" width="400"/>
 </div>
 <br>
 
@@ -48,7 +48,7 @@ This repository contains several graphical implementations of classic algorithmi
 <br>
 
 <div align="center" style="border: 2px dashed #ccc; border-radius: 10px; padding: 10px; width: fit-content; margin: auto;">
-  <img src="/images/image-6.png" alt="alt text" width="400"/>
+  <img src="/images&videos/image-6.png" alt="alt text" width="400"/>
   <p>6×6 magical square</p>
 </div>
 
