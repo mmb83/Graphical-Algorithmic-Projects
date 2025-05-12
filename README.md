@@ -4,7 +4,7 @@ This repository contains several graphical implementations of classic algorithmi
 
 <br>
 <div align="center" style="border: 2px dashed #ccc; border-radius: 10px; padding: 10px; width: fit-content; margin: auto;">
-  <img src="image.png" alt="alt text" width="400"/>
+  <img src="/images/image.png" alt="alt text" width="400"/>
   <p>Main menu</p>
 </div>
 
@@ -16,7 +16,7 @@ This repository contains several graphical implementations of classic algorithmi
    Graphical simulation of the Hanoi Tower problem with adjustable disk number.
 <br><br>
 <div align="center" style="border: 2px dashed #ccc; border-radius: 10px; padding: 10px; width: fit-content; margin: auto;">
-  <img src="image-2.png" alt="alt text" width="400"/>
+  <img src="/images/image-2.png" alt="alt text" width="400"/>
   <p>6×6 magical square</p>
 </div>
 <br>
@@ -25,7 +25,7 @@ This repository contains several graphical implementations of classic algorithmi
    Graphical solver for the N-Queens problem with customizable board size.
 <br>
 <div align="center" style="border: 2px dashed #ccc; border-radius: 10px; padding: 10px; width: fit-content; margin: auto;">
-  <img src="image-3.png" alt="alt text" width="400"/>
+  <img src="/images/image-3.png" alt="alt text" width="400"/>
   <p>N-Queens with N=5 (All possible placements)</p>
 </div>
 
@@ -36,12 +36,12 @@ This repository contains several graphical implementations of classic algorithmi
 
 <br>
 <div align="center" style="border: 2px dashed #ccc; border-radius: 10px; padding: 10px; width: fit-content; margin: auto;">
-  <img src="image-4.png" alt="alt text" width="400"/>
+  <img src="/images/image-4.png" alt="alt text" width="400"/>
 </div>
 <br>
 
 <div align="center" style="border: 2px dashed #ccc; border-radius: 10px; padding: 10px; width: fit-content; margin: auto;">
-  <img src="image-5.png" alt="alt text" width="400"/>
+  <img src="/images/image-5.png" alt="alt text" width="400"/>
 </div>
 <br>
 
@@ -51,7 +51,7 @@ This repository contains several graphical implementations of classic algorithmi
 <br>
 
 <div align="center" style="border: 2px dashed #ccc; border-radius: 10px; padding: 10px; width: fit-content; margin: auto;">
-  <img src="image-6.png" alt="alt text" width="400"/>
+  <img src="/images/image-6.png" alt="alt text" width="400"/>
   <p>6×6 magical square</p>
 </div>
 
