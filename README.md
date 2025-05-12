@@ -15,7 +15,7 @@ This repository contains several graphical implementations of classic algorithmi
    Graphical solver for the N-Queens problem with customizable board size.
 
 3. **Sudoku**  
-   Sudoku puzzle solver with a user-friendly graphical interface for input and output.
+   Sudoku puzzle solver with a user-friendly graphical interface.
 
 4. **Magic Square**  
    Generator and visualizer for magic squares of different sizes.
