@@ -28,7 +28,7 @@ You'll need Python and GUI libraries such as `tkinter` or `pygame` depending on 
 
 To run each project:
 
-```bash
+bash
 python hanoi.py
 python n_queens.py
 python sudoku.py
@@ -36,3 +36,4 @@ python magic_square.py
 
 ## or all in one:
 python main.py
+```
