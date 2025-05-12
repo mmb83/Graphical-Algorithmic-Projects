@@ -1,8 +1,6 @@
 
 ---
 
-### 🇬🇧 English Version
-
 ```markdown
 # Graphical Algorithmic Projects 🎮🧠
 
@@ -35,3 +33,6 @@ python hanoi.py
 python n_queens.py
 python sudoku.py
 python magic_square.py
+
+or all in one:
+python main.py
