@@ -1,7 +1,3 @@
-
----
-
-```markdown
 # Graphical Algorithmic Projects 🎮🧠
 
 This repository contains several graphical implementations of classic algorithmic problems. All programs feature a GUI to make understanding and interacting with the algorithms more intuitive.
@@ -22,18 +18,20 @@ This repository contains several graphical implementations of classic algorithmi
 
 ## 🛠 Requirements
 
-You'll need Python and GUI libraries such as `tkinter` or `pygame` depending on the project.
+You'll need Python and GUI libraries  `tkinter` and `pygame` .
 
 ## 🚀 Run Instructions
 
 To run each project:
 
-bash
+```bash
 python hanoi.py
 python n_queens.py
 python sudoku.py
 python magic_square.py
+```
 
-## or all in one:
+Or all in one:
+```bash
 python main.py
 ```
