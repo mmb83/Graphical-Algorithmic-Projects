@@ -34,5 +34,5 @@ python n_queens.py
 python sudoku.py
 python magic_square.py
 
-or all in one:
+## or all in one:
 python main.py
