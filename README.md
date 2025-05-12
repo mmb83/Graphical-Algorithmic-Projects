@@ -25,8 +25,13 @@ This repository contains several graphical implementations of classic algorithmi
    Graphical solver for the N-Queens problem with customizable board size.
 <br>
 <div align="center" style="border: 2px dashed #ccc; border-radius: 10px; padding: 10px; width: fit-content; margin: auto;">
+<<<<<<< HEAD
   <img src="/images/image-3.png" alt="alt text" width="400"/>
   <p>N-Queens with N=5 (All possible placements)</p>
+=======
+  <img src="image-3.png" alt="alt text" width="400"/>
+  <p>N-Queens with N=5 (10 possible placements)</p>
+>>>>>>> bc3b96976e1becf629290807ab8b77149ed5292d
 </div>
 
 <br>
